@@ -4,6 +4,10 @@
 Weather App is a simple implementation of weather analytics using `OpenWeahter API`.
 The project is built on `Laravel(Backend)` & `Vue.js(FrontEnd SPA)`.
 
+## Demo Screenshots
+![Demo1](https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/weather1.JPG)
+![Demo2](https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/weather2.JPG)
+
 ## Technology Stack
 It is built on Laravel and Vue.js, accompanied with beautiful UI using Bootsrap..
 * Laravel
@@ -35,10 +39,6 @@ Currenlty the implementaion uses `openMapApi` free thirdparty Api using `Custom 
 * Websockets
     * Broadcast real updates 
 
-
-## Demo Screenshots
-![Demo1](https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/weather1.JPG)
-![Demo2](https://raw.githubusercontent.com/MSaddamKamal/wireMedia/main/weather2.JPG)
 
 
 
